@@ -5,4 +5,4 @@ Right now, I'm aiming to be a software engineer. A lot of my code can be found i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerc76&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![CF stats](https://raw.githubusercontent.com/ashirvad2/cf-stats/main/output/light_card.svg)
+![CF stats](https://raw.githubusercontent.com/developerc76/cf-stats/main/output/light_card.svg)
