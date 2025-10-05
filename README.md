@@ -1,10 +1,7 @@
 # Hi there 👋
 ## About Me
 
-I can run and work well with (and in) Linux and love computer science.   
-Right now, I'm aiming to be a software engineer. A lot of my code can be found in the small-projects repo. 
-
-Currently, I'm learning systems level programming and I have created 2 simple memory allocators using these skills in the C language. 
+More info is on [my website](https://developerc76.github.io/)
 
 ## Skills
 
